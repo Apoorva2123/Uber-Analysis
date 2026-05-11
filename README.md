@@ -54,7 +54,7 @@ Created a binary classification feature:
 - `0` → Completed rides
 - `1` → Cancelled/unsuccessful rides
 
-This transformed the project into a supervised machine learning classification problem. :contentReference[oaicite:1]{index=1}
+This transformed the project into a supervised machine learning classification problem. 
 
 ---
 
@@ -85,7 +85,7 @@ Locations such as:
 - Akshardham
 - Chhatarpur
 
-recorded cancellation rates between **40–45%**, significantly above the platform average. :contentReference[oaicite:2]{index=2}
+recorded cancellation rates between **40–45%**, significantly above the platform average. 
 
 ### Trends Identified
 - High-demand urban areas showed stronger cancellation concentration.
@@ -264,7 +264,7 @@ This revealed that:
 - Waiting time
 - Ride cost
 
-are the dominant factors driving cancellation behavior. :contentReference[oaicite:3]{index=3}
+are the dominant factors driving cancellation behavior. 
 
 ---
 
