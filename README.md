@@ -6,7 +6,7 @@ Every cancelled ride tells a story — a missed connection between customer dema
 
 This project analyzes nearly **150,000 Uber ride bookings** to uncover the hidden factors driving ride cancellations and operational inefficiencies across the platform. Using data analytics, visualization, and machine learning, the project explores how ride distance, waiting time, booking value, location, and customer behavior influence cancellation patterns.
 
-The goal was not just to predict cancellations, but to transform ride-booking data into actionable operational intelligence that can help improve customer experience, reduce inefficiencies, and optimize driver allocation. :contentReference[oaicite:0]{index=0}
+The goal was not just to predict cancellations, but to transform ride-booking data into actionable operational intelligence that can help improve customer experience, reduce inefficiencies, and optimize driver allocation.
 
 ---
 
